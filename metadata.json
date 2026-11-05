@@ -1,0 +1,6 @@
+{
+  "name": "AGROSMART 🌱 Smart Plant Requirement Detection & Gardening Assistant",
+  "description": "Smart plant requirement detector, live sensor monitor for Arduino UNO & ESP32, plant health scoring, and beginner-friendly care assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
